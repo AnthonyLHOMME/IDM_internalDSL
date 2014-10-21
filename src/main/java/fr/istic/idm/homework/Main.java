@@ -10,9 +10,16 @@ import org.jooq.Result;
 import org.jooq.SQLDialect;
 import org.jooq.impl.DSL;
 
+/**
+ * 
+ * @author LHOMLME Anthony
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
+		System.out.println("===== LHOMME Anthony =====");
+		
 		// Information de connexion
         String userName = "sa";
         String password = "";
